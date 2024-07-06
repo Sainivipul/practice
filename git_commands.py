@@ -18,3 +18,4 @@ git branch -d [branch name ]  - delete branch
 git push origin --delete [branch name ] 
 git chekckout -b [branchname] - cretate new branch and jump into it 
 git chekcout [branchname]     - jump to existing branch 
+git merge branch              - merge chnages in main and other branch 
